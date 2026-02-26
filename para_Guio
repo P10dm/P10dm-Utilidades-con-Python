@@ -1,5 +1,0 @@
-        self.connection = pymysql.connect(host='sql7.freesqldatabase.com',
-                                            port=3306,
-                                            user='sql7818176',
-                                            password='FzMNGLTjrq',
-                                            database='sql7818176')
