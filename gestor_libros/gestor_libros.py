@@ -250,3 +250,49 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+"""
+No ha creado el CSV. Revisar de nuevo código entero. Los mensajes que ha dado por consola son los siguientes:
+
+⚠️ Faltan las siguientes librerías:
+ - langdetect
+ - beautifulsoup4
+ - python-docx
+
+¿Quieres instalarlas ahora? (s/n): s
+Defaulting to user installation because normal site-packages is not writeable
+Collecting langdetect
+  Downloading langdetect-1.0.9.tar.gz (981 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 981.5/981.5 kB 4.9 MB/s  0:00:00
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... done
+Requirement already satisfied: six in c:\users\patri\appdata\local\packages\pythonsoftwarefoundation.python.3.13_qbz5n2kfra8p0\localcache\local-packages\python313\site-packages (from langdetect) (1.17.0)
+Building wheels for collected packages: langdetect
+  Building wheel for langdetect (pyproject.toml) ... done
+  Created wheel for langdetect: filename=langdetect-1.0.9-py3-none-any.whl size=993363 sha256=c223a1780380e4953a634daf3709e5900072e673a17af208fb489b2fa41df0ca
+  Stored in directory: c:\users\patri\appdata\local\pip\cache\wheels\eb\87\25\2dddf1c94e1786054e25022ec5530bfed52bad86d882999c48
+Successfully built langdetect
+Installing collected packages: langdetect
+Successfully installed langdetect-1.0.9
+
+[notice] A new release of pip is available: 25.3 -> 26.0.1
+[notice] To update, run: C:\Users\patri\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: beautifulsoup4 in c:\users\patri\appdata\local\packages\pythonsoftwarefoundation.python.3.13_qbz5n2kfra8p0\localcache\local-packages\python313\site-packages (4.14.3)
+Requirement already satisfied: soupsieve>=1.6.1 in c:\users\patri\appdata\local\packages\pythonsoftwarefoundation.python.3.13_qbz5n2kfra8p0\localcache\local-packages\python313\site-packages (from beautifulsoup4) (2.8.3)
+Requirement already satisfied: typing-extensions>=4.0.0 in c:\users\patri\appdata\local\packages\pythonsoftwarefoundation.python.3.13_qbz5n2kfra8p0\localcache\local-packages\python313\site-packages (from beautifulsoup4) (4.15.0)
+
+[notice] A new release of pip is available: 25.3 -> 26.0.1
+[notice] To update, run: C:\Users\patri\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: python-docx in c:\users\patri\appdata\local\packages\pythonsoftwarefoundation.python.3.13_qbz5n2kfra8p0\localcache\local-packages\python313\site-packages (1.2.0)
+Requirement already satisfied: lxml>=3.1.0 in c:\users\patri\appdata\local\packages\pythonsoftwarefoundation.python.3.13_qbz5n2kfra8p0\localcache\local-packages\python313\site-packages (from python-docx) (6.0.2)
+Requirement already satisfied: typing_extensions>=4.9.0 in c:\users\patri\appdata\local\packages\pythonsoftwarefoundation.python.3.13_qbz5n2kfra8p0\localcache\local-packages\python313\site-packages (from python-docx) (4.15.0)
+
+[notice] A new release of pip is available: 25.3 -> 26.0.1
+[notice] To update, run: C:\Users\patri\AppData\LocaSSl\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip
+
+✅ Librerías instaladas. Reinicia el programa.
+
+"""
