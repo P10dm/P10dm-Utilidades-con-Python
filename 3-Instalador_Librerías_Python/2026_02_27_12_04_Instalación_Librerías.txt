@@ -1,0 +1,96 @@
+LISTADO DE LIBRERÍAS INTRODUCIDAS POR EL USUARIO:
+- csv
+- cufflinks
+- dataclasses
+- kmeans_module
+- matplotlib
+- nltk
+- numpy
+- os
+- pandas
+- pickle
+- plotly
+- pro_player_classifier
+- random
+- seaborn
+- sklearn
+- sqlalchemy
+- string
+- typing
+- unittest
+
+LIBRERÍAS INSTALADAS CORRECTAMENTE:
+- csv_py
+- cufflinks
+- dataclasses
+- matplotlib
+- nltk
+- numpy
+- pandas
+- plotly
+- seaborn
+- sqlalchemy
+
+LIBRERÍAS NO ENCONTRADAS O NO INSTALADAS:
+----------------------------------------
+Programa buscado: csv
+Descripción usuario: trabajar con csv
+Programas propuestos: csv_plus, csv_py, csv_lib
+Programa elegido: csv_py
+Situación de la instalación: Instalada
+----------------------------------------
+Programa buscado: kmeans_module
+Descripción usuario: segregaciones de datos
+Programas propuestos: kmeans_module_plus, kmeans_module_py, kmeans_module_lib
+Programa elegido: kmeans_module_plus
+Situación de la instalación: Error al instalar
+----------------------------------------
+Programa buscado: os
+Descripción usuario: No se proporcionó
+Programas propuestos: 
+Programa elegido: 
+Situación de la instalación: No instalada
+----------------------------------------
+Programa buscado: pickle
+Descripción usuario: No se proporcionó
+Programas propuestos: 
+Programa elegido: 
+Situación de la instalación: No instalada
+----------------------------------------
+Programa buscado: pro_player_classifier
+Descripción usuario: No se proporcionó
+Programas propuestos: 
+Programa elegido: 
+Situación de la instalación: No instalada
+----------------------------------------
+Programa buscado: random
+Descripción usuario: No se proporcionó
+Programas propuestos: 
+Programa elegido: 
+Situación de la instalación: No instalada
+----------------------------------------
+Programa buscado: string
+Descripción usuario: No se proporcionó
+Programas propuestos: 
+Programa elegido: 
+Situación de la instalación: No instalada
+----------------------------------------
+Programa buscado: typing
+Descripción usuario: No se proporcionó
+Programas propuestos: 
+Programa elegido: 
+Situación de la instalación: No instalada
+----------------------------------------
+Programa buscado: unittest
+Descripción usuario: No se proporcionó
+Programas propuestos: 
+Programa elegido: 
+Situación de la instalación: No instalada
+----------------------------------------
+Programa buscado: sklearn
+Descripción usuario: 
+Programas propuestos: 
+Programa elegido: 
+Situación de la instalación: Error al instalar
+
+FIN DEL REGISTRO
